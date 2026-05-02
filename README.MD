@@ -106,10 +106,10 @@ npm start
 
 ## Autores
 
-**Maria Paula Melo Martinez**
-**Joseph Alejandro Paredes Gaitán**
-**Ana Maria Mendoza Moreno**
-**Ivan Santiago Cruz Villarraga**
+* Maria Paula Melo Martinez
+* Joseph Alejandro Paredes Gaitán
+* Ana Maria Mendoza Moreno
+* Ivan Santiago Cruz Villarraga
 
 ---
 
